@@ -1,0 +1,24 @@
+# Ignore everything by default
+/*
+
+# Whitelist essential Minecraft content directories
+!/saves/
+!/mods/
+!/config/
+!/shaderpacks/
+!/resourcepacks/
+
+# Whitelist game settings and repository meta files
+!/options.txt
+!/optionsshaders.txt
+!/servers.dat
+!/.gitignore
+!/README.md
+
+# Ignore locks, temp files, logs, and backups inside whitelisted directories
+**/session.lock
+**/*.tmp
+**/*.log
+**/*.bak
+**/*.old
+**/*.lock
