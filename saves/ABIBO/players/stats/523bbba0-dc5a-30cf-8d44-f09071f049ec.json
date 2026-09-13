@@ -1,0 +1,49 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 64559,
+      "minecraft:inspect_hopper": 4,
+      "minecraft:walk_one_cm": 2393,
+      "minecraft:total_world_time": 64559,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 308533,
+      "minecraft:crouch_one_cm": 656,
+      "minecraft:sneak_time": 2725,
+      "minecraft:play_time": 64559,
+      "minecraft:jump": 25,
+      "minecraft:time_since_death": 64559
+    },
+    "minecraft:picked_up": {
+      "minecraft:redstone_torch": 1,
+      "minecraft:redstone": 4,
+      "minecraft:comparator": 1
+    },
+    "minecraft:used": {
+      "minecraft:crying_obsidian": 30,
+      "minecraft:piston": 33,
+      "minecraft:repeater": 23,
+      "minecraft:redstone_block": 24,
+      "betternether:gloomwood_dark_trapdoor": 18,
+      "minecraft:observer": 19,
+      "minecraft:redstone": 75,
+      "betternether:bone_block": 138,
+      "betterend:violecite": 60,
+      "betterend:umbralith": 21,
+      "minecraft:hopper": 10,
+      "minecraft:comparator": 4,
+      "betternether:bone_slab": 15,
+      "minecraft:nether_wart_block": 1,
+      "minecraft:sticky_piston": 9,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:glass": 8,
+      "minecraft:shroomlight": 8,
+      "minecraft:redstone_torch": 3,
+      "minecraft:stripped_oak_log": 72,
+      "minecraft:dark_oak_trapdoor": 17,
+      "betterend:violecite_furnace": 1,
+      "betterend:umbralith_polished": 1,
+      "minecraft:obsidian": 119
+    }
+  },
+  "DataVersion": 4790
+}

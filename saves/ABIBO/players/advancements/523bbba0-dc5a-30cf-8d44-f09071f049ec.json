@@ -1,0 +1,665 @@
+{
+  "betternether:recipes/building_blocks/gloomwood_dark_molten_log": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/violecite_stairs": {
+    "criteria": {
+      "has_violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_umbralith_stairs": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_brick": {
+    "criteria": {
+      "has_umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_violecite_polished": {
+    "criteria": {
+      "has_block.betterend.violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_block_bone_button": {
+    "criteria": {
+      "has_bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-09-13 00:54:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-09-13 01:32:30 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_furnace": {
+    "criteria": {
+      "has_violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_umbralith_wall": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_block_bone_plate": {
+    "criteria": {
+      "has_bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/violecite_plate": {
+    "criteria": {
+      "has_violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-09-13 00:58:43 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/tag_piston": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-09-13 01:25:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_shelf": {
+    "criteria": {
+      "has_stripped_oak_log": "2026-09-13 00:58:43 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_umbralith_polished": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_violecite_wall": {
+    "criteria": {
+      "has_block.betterend.violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_stairs": {
+    "criteria": {
+      "has_bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2026-09-13 00:54:12 +0700"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-09-13 00:54:12 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/violecite_button": {
+    "criteria": {
+      "has_violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_brick": {
+    "criteria": {
+      "has_violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_umbralith_slab": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbralith_stairs": {
+    "criteria": {
+      "has_umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-09-13 00:58:43 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_wover_furnaces": "2026-09-13 01:12:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bone_wall": {
+    "criteria": {
+      "has_bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-09-13 00:58:43 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_block_bone_slab": {
+    "criteria": {
+      "has_bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_tile": {
+    "criteria": {
+      "has_bone_slab": "2026-09-13 01:19:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2026-09-13 00:58:43 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_wall_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_violecite_tiles": {
+    "criteria": {
+      "has_block.betterend.violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/molten_gloomsculk": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-09-13 01:13:42 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_violecite_brick": {
+    "criteria": {
+      "has_block.betterend.violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/tag_compass": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/violecite_slab": {
+    "criteria": {
+      "has_violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_umbralith_tiles": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_violecite_stairs": {
+    "criteria": {
+      "has_block.betterend.violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2026-09-13 01:10:26 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/_stonecuttingviolecite_pillar": {
+    "criteria": {
+      "has_block.betterend.violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_bone_block": "2026-09-13 01:07:03 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_violecite_slab": {
+    "criteria": {
+      "has_block.betterend.violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_wall": {
+    "criteria": {
+      "has_umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/stonecutter_umbralith_brick": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-09-13 01:13:42 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/umbralith_plate": {
+    "criteria": {
+      "has_umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_wall": {
+    "criteria": {
+      "has_violecite": "2026-09-13 01:44:24 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_furnace": {
+    "criteria": {
+      "has_umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2026-09-13 01:23:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2026-09-13 00:56:23 +0700",
+      "minecraft:river": "2026-09-13 00:55:46 +0700",
+      "minecraft:old_growth_spruce_taiga": "2026-09-13 00:54:12 +0700"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/_stonecuttingumbralith_pillar": {
+    "criteria": {
+      "has_block.betterend.umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/umbralith_button": {
+    "criteria": {
+      "has_umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_redstone_torch": "2026-09-13 01:25:39 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-09-13 01:41:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbralith_slab": {
+    "criteria": {
+      "has_umbralith": "2026-09-13 01:12:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2026-09-13 01:09:11 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 4790
+}
